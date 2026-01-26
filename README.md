@@ -16,6 +16,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Amy621/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amy621/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Amy621/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Amy621/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Amy621/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Amy621/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amy621/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -26,6 +27,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | [0088-merge-sorted-array](https://github.com/Amy621/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Amy621/Leetcode/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amy621/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Amy621/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -33,6 +35,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | [0088-merge-sorted-array](https://github.com/Amy621/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Amy621/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Amy621/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Amy621/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Amy621/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [3531-count-covered-buildings](https://github.com/Amy621/Leetcode/tree/master/3531-count-covered-buildings) |
 ## Hash Table
@@ -93,6 +96,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Amy621/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Amy621/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Amy621/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 ## Stack
 |  |
