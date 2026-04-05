@@ -111,6 +111,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Amy621/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Amy621/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Simulation
 |  |
 | ------- |
