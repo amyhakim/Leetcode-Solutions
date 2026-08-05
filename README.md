@@ -23,6 +23,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | [2784-check-if-array-is-good](https://github.com/Amy621/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amy621/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Amy621/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3731-find-missing-elements](https://github.com/Amy621/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | [2007-find-original-array-from-doubled-array](https://github.com/Amy621/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2784-check-if-array-is-good](https://github.com/Amy621/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3531-count-covered-buildings](https://github.com/Amy621/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3731-find-missing-elements](https://github.com/Amy621/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +58,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Amy621/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2784-check-if-array-is-good](https://github.com/Amy621/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3531-count-covered-buildings](https://github.com/Amy621/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3731-find-missing-elements](https://github.com/Amy621/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
