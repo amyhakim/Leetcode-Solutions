@@ -96,6 +96,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Amy621/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Amy621/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amy621/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Amy621/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amy621/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Union Find
 |  |
